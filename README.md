@@ -1,1 +1,3 @@
-# laravel-cheatsheet-cn
+# laravel-admin-model
+
+
